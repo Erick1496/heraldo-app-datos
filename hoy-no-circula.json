@@ -1,0 +1,24 @@
+{
+  "actualizado": "2026-11-03",
+  "horario": "5:00 a 22:00 horas",
+  "semana": {
+    "lunes":     { "engomado": "Amarillo", "color": "#FDDA24", "terminaciones": [5, 6] },
+    "martes":    { "engomado": "Rosa",     "color": "#E0609E", "terminaciones": [7, 8] },
+    "miercoles": { "engomado": "Rojo",     "color": "#D91116", "terminaciones": [3, 4] },
+    "jueves":    { "engomado": "Verde",    "color": "#96C11F", "terminaciones": [1, 2] },
+    "viernes":   { "engomado": "Azul",     "color": "#65B1E3", "terminaciones": [9, 0] }
+  },
+  "sabado": {
+    "holograma1_impares": "Terminaciones 1, 3, 5, 7 y 9: primer y tercer sábado del mes",
+    "holograma1_pares":   "Terminaciones 0, 2, 4, 6 y 8: segundo y cuarto sábado del mes",
+    "holograma2":         "Todos los sábados",
+    "exentos":            "Hologramas 00 y 0"
+  },
+  "excepciones": [
+    {
+      "fecha": "2026-11-10",
+      "aviso": "Doble Hoy No Circula por contingencia ambiental",
+      "terminaciones": [3, 4, 5, 6]
+    }
+  ]
+}
